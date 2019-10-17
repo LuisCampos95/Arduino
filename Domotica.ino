@@ -5,8 +5,8 @@
 #define led2 12
 #define led3 13
 
-const char* ssid = "Luis";
-const char* password = "lf10312gs";
+const char* ssid = "Seu Wifi aqui";
+const char* password = "Sua senha aqui";
 
 WiFiServer server(80);
 
